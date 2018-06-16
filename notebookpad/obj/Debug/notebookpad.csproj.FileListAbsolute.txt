@@ -1,0 +1,5 @@
+c:\users\matsu\source\repos\notebookpad\notebookpad\obj\Debug\notebookpad.csprojResolveAssemblyReference.cache
+c:\users\matsu\source\repos\notebookpad\notebookpad\obj\Debug\MainWindow.g.cs
+c:\users\matsu\source\repos\notebookpad\notebookpad\obj\Debug\App.g.cs
+c:\users\matsu\source\repos\notebookpad\notebookpad\obj\Debug\notebookpad_MarkupCompile.cache
+c:\users\matsu\source\repos\notebookpad\notebookpad\obj\Debug\notebookpad_MarkupCompile.lref
